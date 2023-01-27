@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anirudh Balakrishnan</h1>
-<h3 align="center">A passionate techie from Chennai currently pursuing an integrated MSc in Software Systems from PSG College of Technology and a Diploma in Programming in Data Science from IIT Madras</h3>
+<h3 align="center">A passionate techie from Chennai currently pursuing an integrated MSc in Software Systems from PSG College of Technology and a Diploma in Programming and Data Science from IIT Madras</h3>
 
 - 📫 How to reach me **anirudhbala13@gmail.com**
 
