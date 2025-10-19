@@ -16,10 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
-  <!-- Snowflake -->
-  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" alt="Snowflake" width="40" height="40"/>
-  </a>
+
 
   <!-- Machine Learning -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -34,10 +31,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 
-  <!-- MLflow -->
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" alt="MLflow" width="60" height="35"/>
-  </a>
 
   <!-- Agentic AI (LangChain as representation) -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
