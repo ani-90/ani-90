@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anirudh Balakrishnan</h1>
-<h3 align="center">A passionate techie from Chennai currently pursuing an integrated MSc in Software Systems from PSG College of Technology and a Diploma in Programming and Data Science from IIT Madras.I have an inclination towards Machine Learning and Computer Vision and am currently  upskilling myself in these areas.
-
-I have a flair for writing and I have been writing articles on cricket.</h3>
+<h3 align="center">Data Science|Time Series|MLOPS|.</h3>
 
 
 - 📫 How to reach me **anirudhbala13@gmail.com**
