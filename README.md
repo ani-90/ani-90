@@ -1,44 +1,19 @@
+# Hi, I'm Anirudh Balakrishnan
 
-<h1 align="center">Hi 👋, I'm Anirudh Balakrishnan</h1>
-<h3 align="center">Data Science|Time Series|MLOPS|.</h3>
+Applied AI Engineer at Caterpillar Inc., Bengaluru. I build agentic AI systems, ML pipelines, and LLM-powered applications — from research to production.
 
+## What I'm working on
 
-- 📫 How to reach me **anirudhbala13@gmail.com**
+- **MCP-based agentic system** — generates High-Level Architecture diagrams from natural language; integrated into VS Code Copilot Chat with Draw.io rendering
+- **Anomaly detection at scale** — ML pipeline (HDBSCAN + XGBoost) processing GPS data from 1,000+ Caterpillar machines; 80% accuracy improvement over rule-based systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anirudh-balakrishnan-5700041a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirudh-balakrishnan-5700041a7/" height="30" width="40" /></a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## Projects
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+- **[Rudh Reads](https://github.com/ani-90/Knowledge-News-App)** — Agentic daily news platform: 7 parallel LangGraph agents, Qdrant dedup, Llama 3.3 70B summaries, quiz + debate agents, Flutter frontend
+- **[Cricket Strategizer](https://github.com/ani-90/Cricket-Strategy-App)** — Domain-specific NLP with fine-tuned Hugging Face Transformers for cricket analytics
+- **[Stock Market Time Series Research](https://github.com/ani-90/Combining-Time-Series-Models)** — Multi-model forecasting across BSE indices; IEEE-style paper
 
+## Stack
+`Python` `LangGraph` `MCP` `RAG` `Qdrant` `PyTorch` `FastAPI` `AWS` `Snowflake` `Flutter`
 
-
-  <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40"/>
-  </a>
-
-  <!-- Deep Learning -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-
-
-  <!-- Agentic AI (LangChain as representation) -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Agentic AI" width="40" height="40"/>
-  </a>
-
-</p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ani-90&show_icons=true&locale=en&layout=compact" alt="ani-90" /></p>
+📫 anirudhbala13@gmail.com · [LinkedIn](https://www.linkedin.com/in/anirudh-balakrishnan-5700041a7/)
