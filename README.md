@@ -2,8 +2,7 @@
 
 Software Engineer at Caterpillar Inc., Bengaluru. I work on Machine Learning (Anomaly Detection), MlOPS and Data Engineering.
 
-I am building agentic AI systems, ML pipelines, and LLM-powered applications — from research to production.
-
+I am super passionate about agentic AI applications and am currently developing an agentic knowledge-app (mobile). Refer to Rudh-Reads repo for more details!
 ## Projects
 
 - **[Rudh Reads](https://github.com/ani-90/Knowledge-News-App)** — Agentic daily news platform: 7 parallel LangGraph agents, Qdrant dedup, Llama 3.3 70B summaries, quiz + debate agents, Flutter frontend
