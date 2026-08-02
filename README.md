@@ -1,11 +1,8 @@
 # Hi, I'm Anirudh Balakrishnan
 
-Applied AI Engineer at Caterpillar Inc., Bengaluru. I build agentic AI systems, ML pipelines, and LLM-powered applications — from research to production.
+Software Engineer at Caterpillar Inc., Bengaluru. I work on Machine Learning (Anomaly Detection), MlOPS and Data Engineering.
 
-## What I'm working on
-
-- **MCP-based agentic system** — generates High-Level Architecture diagrams from natural language; integrated into VS Code Copilot Chat with Draw.io rendering
-- **Anomaly detection at scale** — ML pipeline (HDBSCAN + XGBoost) processing GPS data from 1,000+ Caterpillar machines; 80% accuracy improvement over rule-based systems
+I am building agentic AI systems, ML pipelines, and LLM-powered applications — from research to production.
 
 ## Projects
 
