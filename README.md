@@ -22,9 +22,7 @@ My answer so far: let the LLM do the discovery and reasoning once, then **compil
 
 - 🤖 **Reliable agents:** moving LLM agents from "works in a demo" to repeatable, auditable behaviour
 - 🧰 **Tools for AI coding assistants:** MCP servers that give assistants accurate context
-- 📊 **Applied ML:** anomaly detection on telematics data, data-quality systems
-- ☁️ **Data engineering:** Snowflake replication and cloud migrations on AWS
-
+- 📊 **Applied ML:** anomaly detection on telematics data.
 ---
 
 ## 🚀 Featured projects
