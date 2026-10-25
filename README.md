@@ -1,7 +1,9 @@
-<h1 align="center">Anirudh Balakrishnan</h1>
+<p align="center">
+  <img src="banner.gif" alt="Anirudh Balakrishnan, Software Engineer at Caterpillar" width="100%">
+</p>
 
 <p align="center">
-  <b>Software Engineer @ Caterpillar · Machine Learning and Data Engineering</b><br>
+  <b>Machine Learning and Data Engineering</b><br>
   Building AI agents that are deterministic, verifiable and safe to run on real systems.
 </p>
 
